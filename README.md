@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Troy</h1>
 <h3 align="center">A passionate backend developer from China</h3>
 
-![Troy's github stats](https://github-readme-stats.vercel.app/api?username=yort-feng&count_private=true&show_icons=true)
+[![Troy's github stats](https://github-readme-stats.vercel.app/api?username=yort-feng&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on [vika](https://vika.cn/)
 
