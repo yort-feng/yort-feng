@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yort.feng@gmail.com**
 
-- 🤔 I prefer asking/solving questions via stackoverflow
+- 🤔 I prefer asking/answering questions via stackoverflow
 
 [![Troy's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/3762105?theme=graywhite)](https://stackoverflow.com/users/3762105/troy)
 
